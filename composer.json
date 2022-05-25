@@ -1,5 +1,5 @@
 {
-    "name": "mwebdev",
+    "name": "mwebdev/backblaze-b2",
     "description": "The Laravel Backblaze B2 Storage Service Provider give provision for for laravel storage to use blackblaze as their storage system. It uses the",
     "license": "MIT",
     "authors": [
