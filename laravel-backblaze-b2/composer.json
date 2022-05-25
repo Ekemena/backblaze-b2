@@ -1,5 +1,5 @@
 {
-    "name": "mwebdevelopment/laravel-backblaze-b2",
+    "name": "mwebdev/laravel-backblaze-b2",
     "type": "library",
     "description": "Backblaze B2 Cloud Storage for Laravel 5",
     "keywords": ["flysystem", "filesystem", "api", "backblaze", "laravel", "storage", "disks"],
@@ -23,12 +23,12 @@
     },
     "autoload": {
         "psr-4": {
-            "Gliterd\\BackblazeB2\\": "src"
+            "Mwebdev\\BackblazeB2\\": "src"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "Gliterd\\BackblazeB2\\Tests\\": "tests"
+            "Mwebdev\\BackblazeB2\\Tests\\": "tests"
         }
     },
     "scripts": {
@@ -41,7 +41,7 @@
     "extra": {
         "laravel": {
             "providers": [
-                "\\Gliterd\\BackblazeB2\\BackblazeB2ServiceProvider"
+                "\\Mwebdev\\BackblazeB2\\BackblazeB2ServiceProvider"
             ]
         }
     }

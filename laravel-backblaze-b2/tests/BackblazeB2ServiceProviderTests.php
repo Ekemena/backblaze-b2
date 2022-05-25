@@ -1,5 +1,5 @@
 <?php
-namespace Gliterd\BackblazeB2\Tests;
+namespace Mwebdev\BackblazeB2\Tests;
 
 class BackblazeB2ServiceProviderTests extends \PHPUnit_Framework_TestCase
 {

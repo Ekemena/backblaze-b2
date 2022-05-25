@@ -1,6 +1,6 @@
 <?php
 
-namespace Gliterd\BackblazeB2;
+namespace Mwebdev\BackblazeB2;
 
 use BackblazeB2\Client as BackblazeClient;
 use Illuminate\Support\Facades\Storage;
